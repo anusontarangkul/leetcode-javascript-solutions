@@ -19,6 +19,7 @@ var mostCommonWord = function (paragraph, banned) {
     return maxWord;
 };
 
+module.exports = mostCommonWord
 /*
 Time Complexity: O(n+m)
 Space Complexity: O(n+m)
