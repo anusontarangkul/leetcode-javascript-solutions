@@ -3,7 +3,9 @@
 ## Description
 
 [Problem](https://leetcode.com/problems/most-common-word/)
+
 Difficulty: Easy
+
 Language: Javascript
 
 ## Tutorial
