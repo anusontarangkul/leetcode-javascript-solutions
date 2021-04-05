@@ -1,0 +1,20 @@
+{
+  "name": "leetcode-javascript-solutions",
+  "version": "1.0.0",
+  "description": "Creating a repository to host my LeetCode solutions to supplement my YouTube tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusontarangkul/leetcode-javascript-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anusontarangkul/leetcode-javascript-solutions/issues"
+  },
+  "homepage": "https://github.com/anusontarangkul/leetcode-javascript-solutions#readme"
+}
