@@ -33,7 +33,7 @@ Space Complexity: O(n+m)
 6. Create maxWord variable.
 7. Loop through each in map.
     a. Condition if the value is greater than the maxCount.
-        i. Change the maxWord to the map key value.
+        i. Change the maxWord to the map key.
         ii. Change the maxCount to the key value.
 8. Return maxWord.
 */
