@@ -14,4 +14,4 @@ Language: Javascript
 
 ## Testing
 
-Run "npm i" for jest testing.
+Run "npm i" and then "npm test" for jest testing.
