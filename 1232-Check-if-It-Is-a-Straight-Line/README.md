@@ -10,7 +10,7 @@ Language: Javascript
 
 ## Tutorial
 
-[Tutorial](https://youtu.be/IocM9ZTkOks)
+[Tutorial](https://youtu.be/CiEUMkbSQ-8)
 
 ## Testing
 
