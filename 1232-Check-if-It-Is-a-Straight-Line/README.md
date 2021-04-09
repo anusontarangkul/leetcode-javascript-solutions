@@ -1,8 +1,8 @@
-# 1232. Check If It Is a Straight Line
+# 1295. Find Numbers with Even Number of Digits
 
 ## Description
 
-[Problem](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+[Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 
 Difficulty: Easy
 
@@ -10,7 +10,7 @@ Language: Javascript
 
 ## Tutorial
 
-[Tutorial](https://youtu.be/CiEUMkbSQ-8)
+[Tutorial](https://youtu.be/O6RiVgatt_4)
 
 ## Testing
 
