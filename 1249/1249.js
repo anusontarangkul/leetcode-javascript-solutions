@@ -33,3 +33,5 @@ var minRemoveToMakeValid = function (s) {
 // 4. Loop through the stack
 //      a. Change the sArray values of those indexes to ""
 //  5. Return the sArray joined
+
+this.props.tables = [{ name: 'TABLE_1', db_name: 'DEMO_DB', schema_name: 'PUBLIC', }, { name: 'TABLE_2', db_name: 'DEMO_DB', schema_name: 'INFORMATION_SCHEMA', }, { name: 'TABLE_3', db_name: 'SNOWFLAKE', schema_name: 'PUBLIC', }, { name: 'TABLE_4', db_name: 'SNOWFLAKE_SAMPLE_DATA', schema_name: 'INFORMATION_SCHEMA', }, { name: 'CALL_CENTER', db_name: 'SNOWFLAKE_SAMPLE_DATA', schema_name: 'TPCDS_SF100TCL', }, { name: 'CATALOG_PAGE', db_name: 'SNOWFLAKE_SAMPLE_DATA', schema_name: 'TPCDS_SF100TCL', }]
