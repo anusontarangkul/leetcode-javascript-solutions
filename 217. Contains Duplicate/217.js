@@ -17,4 +17,4 @@ var containsDuplicate = function (nums) {
 //      a. If numSet has current num.
 //          i. Return true.
 //      b. Add current num to numSet.
-// 3. Return false
+// 3. Return falses
